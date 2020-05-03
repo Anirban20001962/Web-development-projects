@@ -1,0 +1,109 @@
+.class1{
+	background-color: #009999;
+
+}
+#wolf{
+	position: relative;
+	left:450px;
+}
+#heads{
+	margin-right:1125px;
+	position: relative;
+	left:570px;
+	bottom: 90px;
+	background-color: #d9d9d9;
+}
+#contact{
+	margin-right: 1240px;
+	position:relative;
+	left: 1240px;
+	bottom:100px; 
+}
+#messi{
+	position:absolute;
+	top:10px;
+	left: 1148px;
+}
+
+.class2{
+	background-color: #ffd1b3;
+	margin-right:765px;
+	border:2px solid black; 
+	position: relative;
+	bottom: 20px;
+}
+#handshake{
+	position: relative;
+	left:35%;
+}
+.class3{
+	background-color: blue;
+	margin-right:1055px;
+	padding-bottom: 42px;
+	border:2px solid brown;
+	position: relative;
+	left: 1050px;
+	bottom: 353px;
+
+}
+.class4{
+	background-color: red;
+	margin-right:1055px;
+	border:3px solid black;
+	position: relative;
+	left:30%;
+	bottom:250px;
+
+}
+#sub{
+	position: relative;
+	left:120px;
+}
+#pg1{
+	background-color:#ffff80
+}
+#img2{
+	position: relative;
+	left: 900px;
+}
+.class6{
+	background-image: linear-gradient(to right,#0056d6,#0091e3,#00bac8,#9dd9be,#f1f6e5);
+	padding-bottom:42px; 
+}
+#bhd{
+	margin-right: 550px;
+	position: relative;
+	left: 35%;
+}
+#google{
+	position: relative;
+	left:5px; 
+}
+#fb{
+	position: relative;
+	left:200px;
+
+}
+#shm{
+	position: relative;
+	left:400px;
+}
+#tc{
+	position: relative;
+	left:600px;
+}
+#last{
+	position: relative;
+	left:1300px;
+	margin-right: 1300px;
+
+}
+
+
+
+
+
+
+
+
+
