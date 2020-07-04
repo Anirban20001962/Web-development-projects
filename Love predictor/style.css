@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+body {
+	background-image:url(maxresdefault.jpg);
+	background-color: pink;
+	font-family:'Great Vibes', cursive;
+}
+@media only screen and (max-width:1274px)  {
+h1{
+	text-align: center;
+	padding-top:100px;
+	color: #072614;
+	font-size: 35px;
+}
+span {
+	display: inline-block;
+}
+input {
+	width: 90%;
+	margin:20px;
+	border-radius: 20px;
+	font-size: 20px;
+	font-weight: bold;
+}
+label {
+	text-align: center;
+	font-size: 40px;
+	font-weight: bold;
+}
+@media only screen and (max-width:871px)  {
+button {
+	position: relative;
+	top: 70px;
+	left:35%;
+	width: 30%;
+	border-radius: 20px;
+}
+}
+@media only screen and (min-width:872px)  {
+button {
+	position: relative;
+	top: 70px;
+	left:45%;
+	width: 10%;
+	border-radius: 40px;
+}
+}
+p{
+	font-size: 35px;
+	text-align: center;
+	font-weight: bold;
+}
+}
+@media only screen and (min-width: 1275px) {
+h1{
+	text-align: center;
+	padding-top:100px;
+	color: #072614;
+	font-size: 60px;
+}
+
+label {
+	font-size: 40px;
+	font-weight: bold;
+}
+input {
+	width: 25%;
+	padding: 4px;
+	border-radius: 10px;
+	font-size: 40px;
+}
+span {
+	padding-left: 5%;
+}
+button {
+	position: relative;
+	top: 70px;
+	left: 45%;
+	width: 10%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-radius: 20px;
+}
+p{
+	font-size: 35px;
+	text-align: center;
+	font-weight: bold;
+}
+}
+.information {
+	text-align: center;
+	padding-top: 90px;
+}
