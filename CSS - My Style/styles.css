@@ -1,0 +1,55 @@
+body {
+	margin:0;
+	text-align: center;
+	font-family: 'Merriweather' ,serif ;
+}
+h1 {
+	margin-top: 0;
+	font-size: 60px;
+	color: #66BFBF;
+}
+#first {
+	font-size: 40px;
+	font-weight: normal;
+	color: #66BFBF;
+}
+.top-container {
+	background-color: #E4F9F5;
+	position: relative;
+	padding-top: 100px;
+	line-height: 2;
+}
+.bottom-cloud {
+	position: absolute;
+	left: 300px;
+	bottom: 300px;
+}
+.top-cloud {
+	position: absolute;
+	right: 300px;
+	top: 50px;
+}
+.pro {
+	text-decoration:underline;
+}
+.footer-link {
+	color: #11999E;
+}
+.skill-row {
+	width: 50%;
+	margin: 100px auto 100px auto;
+	text-align: left;
+	line-height: 2;
+}
+.code-img {
+	width :25%;
+	float: left;
+	margin-right: 30px;
+}
+
+#con-button {
+	background: #42bff5;
+	padding: 10px 30px 10px 30px;
+	border-radius: 12px;
+
+}
